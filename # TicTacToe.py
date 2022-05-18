@@ -2,6 +2,8 @@
 import random
 import copy
 
+# Change 1
+
 
 def print_board(board: list):
     """Prints the tictactoe board.
