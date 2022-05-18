@@ -3,6 +3,7 @@ import random
 import copy
 
 # Change 1
+# Change 2
 
 
 def print_board(board: list):
